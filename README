@@ -1,4 +1,3 @@
-````
 # Amazon Web Scraping
 
 ![Site Screenshot](site.jpg)
@@ -10,29 +9,22 @@ This is a web scraping project built with Express.js, Cheerio, and Axios. It all
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/rafaeor/simple-amazon-scrape.git
-````
 
 2. Navigate to the project directory:
 
-   ```bash
    cd simple-amazon-scrape
-   ```
 
 3. Install the dependencies:
 
-   ```bash
    npm install
-   ```
 
 ## Usage
 
 1. Start the project:
 
-   ```bash
    npm start
-   ```
 
 2. Open your web browser and go to `http://localhost:3000`.
 3. Enter a product name in the input field and click the "Submit" button.
@@ -55,7 +47,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](LICENSE)
-
-```
-
-```

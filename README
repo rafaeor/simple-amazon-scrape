@@ -1,7 +1,7 @@
-# Amazon Web Scraping
+![Site Screenshot](image/site.jpg?raw=true "Site Screenshot")
+![Terminal Screenshot](image/terminal.jpg?raw=true "Terminal Screenshot")
 
-![Site Screenshot](image/site.jpg)
-![Terminal Screenshot](image/terminal.jpg)
+# Amazon Web Scraping
 
 This is a web scraping project built with Express.js, Cheerio, and Axios. It allows you to search for a product on Amazon and retrieve the first page of search results.
 

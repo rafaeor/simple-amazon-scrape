@@ -4,9 +4,9 @@ import colors from "colors";
 
 //this will look for the information for a given keyword.
 export async function getInfo(keyword) {
-  console.log("Started to scrape");
+  console.log("Started to scrape: " + keyword);
   //here we are looking in the US amazon.
-  let url = `https://www.amazon.com/s?k=${keyword}&ref=nb_sb_noss_2`;
+  let url = `https://www.amazon.com/s?k=${keyword}&ref=nb_sb_noss`;
   //create a list for all scraped object
   let objects = [];
 

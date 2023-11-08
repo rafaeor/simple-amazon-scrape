@@ -17,7 +17,7 @@ This is a web scraping project built with Express.js, Cheerio, and Axios. It all
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd simple-amazon-scrape
    ```
 
 3. Install the dependencies:

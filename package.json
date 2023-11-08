@@ -1,16 +1,26 @@
 {
   "name": "simple-amazon-web-scraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scrape Amazon product listing from the first page of seaarch results for a given keyword.",
   "main": "server/app.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server/app.js"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "scrape",
+    "express",
+    "axios"
+  ],
+  "author": "Rafael Sales <https://github.com/rafaeor/simple-amazon-scrape>",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.6.1",
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.0.1"
   }
 }

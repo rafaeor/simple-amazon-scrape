@@ -1,5 +1,5 @@
-![Site Screenshot](https://github.com/rafaeor/simple-amazon-scrape/blob/main/image/site.jpg?raw=true "Site Screenshot")
-![Terminal Screenshot](https://github.com/rafaeor/simple-amazon-scrape/blob/main/image/terminal.jpg?raw=true "Terminal Screenshot")
+![Site Screenshot](https://github.com/rafaeor/simple-amazon-scrape/blob/main/image/site.jpg?raw=true)
+![Terminal Screenshot](https://github.com/rafaeor/simple-amazon-scrape/blob/main/image/terminal.jpg?raw=true")
 
 # Amazon Web Scraping
 
